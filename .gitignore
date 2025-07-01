@@ -18,3 +18,8 @@
 /public/assets/
 /assets/vendor/
 ###< symfony/asset-mapper ###
+
+###> mac/phpstorm ###
+.idea
+.DS_Store
+ ###< mac/phpstorm ###
