@@ -22,4 +22,5 @@
 ###> mac/phpstorm ###
 .idea
 .DS_Store
+data.db
  ###< mac/phpstorm ###
